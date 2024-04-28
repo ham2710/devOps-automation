@@ -13,7 +13,7 @@ public class HibernateDemoApplication {
 
 	@GetMapping
 	public String message(){
-		return "welcome to javatechie";
+		return "welcome to harshik Spring boot app";
 	}
 	
 	public static void main(String[] args) {
